@@ -19,11 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmaadel&theme=dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmaadel&layout=compact&theme=dark&langs_count=8&hide=css,html&custom_title=Most%20Used%20Languages%20-%20JavaScript%20Dominant)
-
----
 
 ### ✨ Featured Projects
 - 🌟 [Portfolio Website](https://your-portfolio-link.vercel.app/)
